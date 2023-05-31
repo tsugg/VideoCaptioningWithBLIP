@@ -1,0 +1,8 @@
+matplotlib==3.7.1
+numpy==1.24.3
+opencv_python==4.7.0.72
+opencv_python_headless==4.5.5.64
+Pillow==9.5.0
+salesforce_lavis==1.0.2
+torch==2.0.1
+wasabi==1.1.1
