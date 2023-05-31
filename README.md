@@ -1,5 +1,5 @@
 # VideoCaptioningWithBLIP
-Exploring using BLIP to caption and identify key 
+Exploring using BLIP to caption videos and using embeddings to identify important video frames.
 
 
 ## Requirements
