@@ -1,6 +1,11 @@
 # VideoCaptioningWithBLIP
 Exploring using BLIP to caption videos and using embeddings to identify important video frames.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/AfM5cP5uAClzdaQdIP/giphy-downsized.gif" alt="animated" />
+</p>
+
+![](https://github.com/tsugg/VideoCaptioningWithBLIP/blob/main/output/key_frames_in_video.png?raw=true)
 
 ## Requirements
 * CUDA 11.7
